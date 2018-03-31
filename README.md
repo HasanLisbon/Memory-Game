@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [How to play](#How to Play)
+* [How to play](#HowtoPlay)
 * [Score](#Score)
 * [Reset](#Reset)
-* [Game Over](#Game Over)
+* [Game Over](#GameOver)
 
 ## How to play
 
