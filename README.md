@@ -2,17 +2,13 @@
 
 ## Table of Contents
 
-* [How to Play](#instructions)
+* [How to Play](#How to Play)
 * [Score](#contributing)
 * [Reset Game](#reset)
 
-## Instructions
+## How to play
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+To play the game you just need to click on any card on the deck and it will automatically start the timer and each 2 clicked card will be counted as 1 move. The game rating will be based on the number of move you make.
 
 ## Contributing
 
