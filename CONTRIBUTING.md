@@ -1,3 +1,3 @@
 # How to contribute
 
-The files in this repository are used as the starting point for all students. Because we want students to write the majority of the code themselves, pull requests (most likely) will _not_ be merged into the project.
+This is a project which I built as part of the udacity nanodegree program. For this project I will not accept any pull request for this moment but any comments or suggestion are highly appreciated.
