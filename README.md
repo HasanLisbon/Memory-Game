@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [How to Play](#How to Play)
+* [HowtoPlay](#How to Play)
 * [Score](#contributing)
 * [Reset Game](#reset)
 
