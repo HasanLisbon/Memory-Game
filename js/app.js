@@ -117,11 +117,9 @@ $(document).ready(function(){
                }
                //updating moves and with the move calling the star rate function so that the score panel gets star according to the moves
                function updateMoves() {
-                if (moves ==32) {
+               if (moves == 25) {
                     starRate();
-                } else if (moves == 24) {
-                    starRate();
-                } else if (moves == 17) {
+                } else if (moves == 18) {
                     starRate();
                 }
         
