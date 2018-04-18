@@ -22,3 +22,6 @@ To reset the game just click on the restart icon which will reset the time and s
 ## Game Over
 
 When all the cards are matched the game is over and you get a pop up window with score and a button if you want to play again or not.
+
+## To see the game
+[Click Here] (https://hasanlisbon.github.io/Memory-Game/)
